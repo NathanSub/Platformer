@@ -1,6 +1,6 @@
 """
 platformer.py
-Author: 
+Author: Nathan Subrahmanian
 Credit: 
 Assignment:
 Write and submit a program that implements the sandbox platformer game:
